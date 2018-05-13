@@ -1,0 +1,25 @@
+.login-container{
+    background: url('../assets/bg-image2.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
+.dropshadow{
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 25%;
+    height: 51%;
+    width: 400px;
+    right: 60px;
+
+}
+.login-content{
+    
+    color:wheat
+}
